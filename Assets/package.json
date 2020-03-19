@@ -13,7 +13,7 @@
   "keywords": [],
   "category": "",
   "dependencies": {
-    "com.google.firebase.core": "6.12.0-preview.2"
+    "com.google.firebase.core": "6.12.0-preview.4"
   },
   "repository": {
     "type": "git",
