@@ -1,0 +1,22 @@
+{
+  "name": "com.google.firebase.analytics",
+  "displayName": "Firebase Analytics",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "Analytics modules of Firebase SDK for Unity",
+  "author": {
+    "name": "Google, Inc.",
+    "url": "https://google.com/",
+    "email": "noreply@google.com"
+  },
+  "license": "Apache-2.0",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+    "com.google.firebase.core": "6.12.0-preview.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upm-packages/Firebase.Analytics"
+  }
+}
